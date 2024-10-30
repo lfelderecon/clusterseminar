@@ -20,5 +20,5 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 
 12.02. Mia Teschner,
 
-## Daten for the Summer Semester 2025
+## Dates for the Summer Semester 2025
 tbd
