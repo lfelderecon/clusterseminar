@@ -2,6 +2,7 @@
 
 ## Location and News
 All abstracts and locations will be shared via our mailing list. If you want to attend a specific session or receive the mailing list in the future, write a short mail to lfelder@diw.de and mschaller@diw.de. Note that the dates and speakers are subject to change. 
+<br>
 
 ## Dates for the current Winter Semester 2024 / 2025
 23.10.2024 **Lavinia Kinne & Virginia Sondergeld**, "Meet My Family: The Effect of Female CEOs’ Newspaper Coverage on CEO Perception and Economic Decision-making"
@@ -34,5 +35,6 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 12.02.2025 **Mia Teschner**,
 <br>
 
+<div style="height: 10mm;"></div>
 ## Dates for the Summer Semester 2025
 tbd
