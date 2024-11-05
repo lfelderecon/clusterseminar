@@ -17,7 +17,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-20.11.2024 **Daniel Graeber**,
+20.11.2024 **Daniel Graeber**, "Cognitive Abilities and Economic Preferences: Evidence from Genetic and Behavioral Data". (joint work with Tana Maneein and Carsten Schroeder).
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    An influential body of economic literature has consistently shown strong associations between cognitive abilities and economic preferences. However, much of this research has overlooked the potential endogeneity of cognitive abilities—an oversight given that these abilities stem from a series of investment decisions influenced by factors likely correlated with economic preferences. To address this gap, we utilize a novel dataset that includes both stated and revealed preferences, along with genetic data on respondents. We measure inherent predispositions to high cognitive abilities using a polygenic score for cognitive performance (PGI CP), providing a robust proxy for individuals’ innate cognitive potential. Our comprehensive data further allow us to mitigate concerns that individuals with a genetic disposition for high cognitive performance are also raised in more favorable environments.
+</p>
 <br>
 
 04.12.2024 **Izabela Wnuk-Soares**,
