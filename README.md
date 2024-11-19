@@ -23,7 +23,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-04.12.2024 **Izabela Wnuk-Soares**,
+04.12.2024 **Izabela Wnuk-Soares**, "Migration and Native Health: New Evidence from the Workplace"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    This paper evaluates the impact of immigration on the incidence of severe health shocks at the workplace level. Using rich linked employer-employee data from Germany and an instrumental variable leveraging policy variation, I show that firms with a higher concentration of foreign workers experience lower rates of long-term sickness among their employees. Decomposing the rates by gender and worker origin reveals that these health improvements are concentrated entirely among native men, are particularly pronounced in medium-sized construction and trade companies, and are driven by the firm's foreign new hires. The primary mechanism is a lower relative participation of native male workers in manual tasks at the firm, particularly in industries with high health risks. Further analysis confirms that these effects are not due to the substitution of less healthy natives, the evolution of norms around absenteeism, differences in firm expansion trends, or reverse causality.
+</p>
 <br>
 
 18.12.2024 **Julie Treguier**, "The Effect of Adverse Life-Events on Income Trajectories"
