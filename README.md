@@ -32,7 +32,7 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 18.12.2024 **Julie Treguier**, "The Effect of Adverse Life-Events on Income Trajectories"
 <br>
 
-15.01.2025 **(Clara Schäper)** (tbd)
+15.01.2025 **Maximilian Blesch & Bruno Veltri**
 <br>
 
 29.01.2025 **Annica Gehlen**,
