@@ -30,6 +30,9 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 <br>
 
 18.12.2024 **Julie Treguier**, "The Effect of Adverse Life-Events on Income Trajectories"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    This paper studies and compares the effect of different adverse life events -- job loss, disability and health shocks, divorce and spousal death -- on individuals' income trajectories. We use a harmonized design across events in terms of methodology and data: matching difference-in-difference with exhaustive Dutch administrative registers. We assess the effect of adverse events on different margins. We compare their effect on primary and disposable household income in order to measure the public insurance to the shocks provided by the tax and transfer system. Both between different events and within different groups for a given event, we find that the importance of government insurance increases with the severity of the shock on primary income. However, we find that certain groups of the population are relatively less protected against adverse life events, such as young people facing a large health shock or secondary earners facing a divorce.
+</p>
 <br>
 
 15.01.2025 **Maximilian Blesch & Bruno Veltri**
