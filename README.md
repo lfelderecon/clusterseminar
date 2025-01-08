@@ -38,10 +38,13 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 15.01.2025 **Maximilian Blesch & Bruno Veltri**
 <br>
 
-29.01.2025 **Annica Gehlen**,
+29.01.2025 **Annica Gehlen**
 <br>
 
-12.02.2025 **Mia Teschner**,
+12.02.2025 **Mia Teschner**
+<br>
+
+19.02.2025 **Clara Schäper**
 <br>
 
 <div style="height: 10mm;"></div>
