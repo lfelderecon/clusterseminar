@@ -44,7 +44,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 12.02.2025 **Mia Teschner**
 <br>
 
-19.02.2025 **Clara Schäper**
+19.02.2025 **Clara Schäper**, "Breaking the Silence: The Role of Women's Shelters and Legal Infrastructure in IPV Reporting"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Does increased legal infrastructure lead to higher intimate partner violence (IPV) reporting and empower victims to leave abusive relationships? Structural barriers often prevent IPV victims from seeking help, with two-thirds of female victims in Europe neither reporting incidents to the police nor accessing support services. I study the rollout of women’s shelters and the introduction of the 2002 Violence Protection Act in Germany, which established a structured cooperation framework between shelters, courts, and police. I leverage variation in the rollout of shelters and the introduction of the reform to identify its effects, using newly digitized data on shelter opening dates combined with administrative county-level data.
+</p>
 <br>
 
 <div style="height: 10mm;"></div>
