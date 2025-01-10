@@ -35,7 +35,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-15.01.2025 **Maximilian Blesch & Bruno Veltri**
+15.01.2025 **Maximilian Blesch & Bruno Veltri**, "Policy Uncertainty, Misinformation and Statutory Retirement Age Reform"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Aging societies put a strain on social security systems worldwide. Raising the statutory retirement age (SRA) is one of the most common tools that policymakers employ to respond to this pressure. We study the effect of policy reform on savings, labor supply, and welfare. Using data from the German Socio-Economic Panel (SOEP), we estimate a structural life-cycle model. The model features subjective policy uncertainty and is enriched with subjective survey-elicited (SOEP-IS) policy expectations data. It include various monetary and non-monetary drivers of life-cycle savings and old-age labor supply. We can use the model to quantify the effects not just of further increases in the SRA, but also of policies targeted at removing uncertainty by committing to certain policy trajectories.
+</p>
 <br>
 
 29.01.2025 **Annica Gehlen**
