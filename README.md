@@ -41,7 +41,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-29.01.2025 **Annica Gehlen**
+29.01.2025 **Annica Gehlen**, "Occupations, Disability Insurance, and Career Choices"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Work-limiting disabilities pose a significant risk to the earnings potential and welfare of older workers. While coverage of public disability insurance (DI) systems is almost universal, the risk of becoming dependent on DI varies across occupations. In this paper, I study the value of public DI across different occupations using data from administrative social security records in Germany. I evaluate how public DI coverage affects occupational transitions by analyzing the employment effects of a large-scale policy reform that eliminated occupational DI coverage in Germany. I then use a structural model to study the relationship between disability insurance, occupational choice, and retirement in a life-cycle context. In counterfactual experiments, I evaluate how adjustments to the DI and retirement system affect the labor supply of different occupational groups.
+</p>
 <br>
 
 12.02.2025 **Mia Teschner**
