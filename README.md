@@ -47,7 +47,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-12.02.2025 **Mia Teschner**
+12.02.2025 **Mia Teschner**, "Working Longer: The Effects of a Higher Retirement Age on Work-Related Health Investments During the Working Life"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Health investments are vital for maintaining physical and mental well-being throughout working life, and their importance is amplified with rising retirement ages due to demographic aging. This is the first study to examine if a longer working life causally increases institutionalized health investments. We explore the impact of a German pension reform that raised the retirement age by three years and extended the working life. Utilizing detailed administrative data from the German pension insurance on workrelated rehabilitation measures, we apply a sharp regression discontinuity design based on birth cohort cut-offs introduced by the reform. We find no evidence of increased health investments for enhancing work capacity. This null effect holds across various specifications and persists for specific diagnoses and measures. These findings challenge the predictions of the standard human capital model, which suggests that work-related health investments should rise as the working life extends in aging societies.
+</p>
 <br>
 
 19.02.2025 **Clara Schäper**, "Breaking the Silence: The Role of Women's Shelters and Legal Infrastructure in IPV Reporting"
