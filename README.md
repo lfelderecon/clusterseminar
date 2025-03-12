@@ -23,7 +23,9 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 
 
 <div style="height: 10mm;"></div>
+
 ---
+
 ## Winter Semester 2024 / 2025
 23.10.2024 **Lavinia Kinne & Virginia Sondergeld**, "Meet My Family: The Effect of Female CEOs’ Newspaper Coverage on CEO Perception and Economic Decision-making"
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
