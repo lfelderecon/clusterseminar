@@ -6,8 +6,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 
 ## Summer Semester 2025 - Preliminary schedule
 16.04.2025
+<br>
 
 30.04.2025
+<br>
 
 14.05.2025
 
@@ -15,11 +17,11 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 
 11.06.2025
 
-25.06.2025
+25.06.2025 **Lars Felder**
 
 09.07.2025
 
-23.07.2025 
+23.07.2025 **Maxi Schaller**
 
 
 <div style="height: 10mm;"></div>
