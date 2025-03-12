@@ -1,10 +1,30 @@
-# Welcome to the cluster seminar at DIW
+# Welcome to the cluster seminar at DIW Berlin
 
 ## Location and News
 All abstracts and locations will be shared via our mailing list. If you want to attend a specific session or receive the mailing list in the future, write a short mail to lfelder@diw.de and mschaller@diw.de. Note that the dates and speakers are subject to change. 
 <br>
 
-## Dates for the current Winter Semester 2024 / 2025
+## Summer Semester 2025 - Preliminary schedule
+16.04.2025
+
+30.04.2025
+
+14.05.2025
+
+28.05.2025
+
+11.06.2025
+
+25.06.2025
+
+09.07.2025
+
+23.07.2025 
+
+
+<div style="height: 10mm;"></div>
+---
+## Winter Semester 2024 / 2025
 23.10.2024 **Lavinia Kinne & Virginia Sondergeld**, "Meet My Family: The Effect of Female CEOs’ Newspaper Coverage on CEO Perception and Economic Decision-making"
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     The newspaper coverage of CEOs is highly gendered with more family-related language used in newspaper articles on female than male company leaders. In a randomized online experiment, we ask whether this stereotypical representation affects readers' beliefs about CEO competence, firm performance, and resulting financial decision-making. We show participants articles consisting of elements from real newspaper coverage on a real company and its CEO, and vary the way information about their family is (not) presented. We find that although respondents do not believe firm performance to be different by CEO coverage, investments into the firm stock are significantly lower for female CEOs when their family is neutrally mentioned. Instead, there is no penalty for highlighting a trade-off between family and career. Machine-learning analysis based on free-text questions suggests that family and gender play an important role in respondents' reasoning.
@@ -59,6 +79,4 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-<div style="height: 10mm;"></div>
-## Dates for the Summer Semester 2025
-tbd
+
