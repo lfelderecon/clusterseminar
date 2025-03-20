@@ -15,9 +15,9 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 
 28.05.2025 **Maximilian Blesch & Bruno Veltri**
 
-11.06.2025 **Clara Schäper**
+11.06.2025 
 
-25.06.2025 
+25.06.2025 **Clara Schäper**
 
 09.07.2025 **Lars Felder**
 
