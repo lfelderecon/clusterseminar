@@ -5,21 +5,21 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 <br>
 
 ## Summer Semester 2025 - Preliminary schedule
-16.04.2025
+16.04.2025 **Marten Ritterrath**
 <br>
 
-30.04.2025
+30.04.2025 **Julie Treguier**
 <br>
 
-14.05.2025
+14.05.2025 **Mareen Bastiaans**
 
-28.05.2025
+28.05.2025 **Maximilian Blesch & Bruno Veltri**
 
-11.06.2025
+11.06.2025 **Clara Schäper**
 
-25.06.2025 **Lars Felder**
+25.06.2025 
 
-09.07.2025
+09.07.2025 **Lars Felder**
 
 23.07.2025 **Maxi Schaller**
 
