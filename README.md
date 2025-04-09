@@ -4,7 +4,7 @@
 All abstracts and locations will be shared via our mailing list. If you want to attend a specific session or receive the mailing list in the future, write a short mail to lfelder@diw.de and mschaller@diw.de. Note that the dates and speakers are subject to change. 
 <br>
 
-## Summer Semester 2025 - Preliminary schedule
+## Summer Semester 2025
 16.04.2025 **Marten Ritterrath**, "Inventors' Personal Experience of Natural Disasters and Green Innovation"
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     We show that inventors' personal experiences of natural disasters lead to increased green innovation through changes in their higher-order beliefs about consumer preferences. We match patent records of French and German inventors and a survey of inventive firms to detailed information on natural disasters. This allows us to exploit exogenous variation in inventors’ exposure to natural disasters. In affected areas, exposure results in an average 8.2% increase in green patents, driven primarily by increased innovation in mitigation technologies that reduce emissions. Non-green innovation remains unaffected. We do not find significant spatial spillovers in patenting, underlining the importance of being personally affected. To get at the mechanism, we investigate how natural disaster exposure changes firms' reasons for green innovation. Affected firms adjust their higher-order beliefs regarding consumers’ demand for green goods and more stringent environmental regulation. Our findings provide novel causal evidence that personal experiences affect higher-order beliefs.
