@@ -11,7 +11,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-30.04.2025 **Julie Treguier**
+30.04.2025 **Julie Treguier**, "Spousal death, mental health and survivor benefits" (with Mara Barschkett)
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    This paper investigates the mental health consequences of spousal death and the role of survivor benefits in mitigating these effects. Using Dutch administrative data and a staggered difference-in-differences, we first document a significant increase in the consumption of benzodiazepines - a proxy for deteriorating mental health - following widowhood (up to +3 percentage points, or +30%, in the year after the spouse's death). We then exploit a 1996 policy reform that sharply restricted eligibility for public survivor insurance to identify the causal impact of benefits on mental health. Our findings show that the restriction of survivor benefits led to an additional 6% increase in benzodiazepine use, suggesting that survivor insurance provides important protection against the mental health risks associated with widowhood.
+</p>
 <br>
 
 14.05.2025 **Mareen Bastiaans**
