@@ -17,7 +17,11 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-14.05.2025 **Mareen Bastiaans**
+14.05.2025 **Mareen Bastiaans**, "Long-Term Gains of Graduating in a Recession for Low Educated Entrants"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    Economic conditions at time of labor market entry have been shown to have large negative effects on labor market outcomes for an extended period of time. The immediate effects have been shown to be worse for lower educated entrants. In the long run, the effects may be very different as low and high educated have different possibilities to accommodate this negative shock, high educated entrants can downgrade and low educated entrants cannot. This paper estimates the long-term effects of economic conditions at labor market entry on income and employment for high and low educated separately up to 40 years after graduation. I exploit regional variation in unemployment and proxy for time and location of labor market entry using birth region and nominal duration of education. For both high and low educated labor market entrants between 1971 and 1988, I find short-lived negative effects immediately after graduation. These negative effects on earnings and employment remain for high educated in the long run. Low educated benefit as they end up in more stable jobs. This can be explained by low educated entrants shifting to less cyclical sectors, which shields them from future recessions, as a result of high educated entrants downgrading.
+</p>
+<br>
 
 28.05.2025 **Maximilian Blesch & Bruno Veltri**
 
