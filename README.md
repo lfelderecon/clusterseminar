@@ -23,7 +23,12 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-28.05.2025 **Maximilian Blesch & Bruno Veltri**
+28.05.2025 **Maximilian Blesch & Bruno Veltri**, "Policy Uncertainty, Misinformation, and Retirement Age Reform"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    This study examines the impact of Statutory Retirement Age (SRA) reforms on individual behavior and welfare in the presence of policy uncertainty and misinformation. We develop a structural life-cycle model in which individuals are uncertain about the future evolution of the SRA and misinformed about its importance. We derive individuals’ expectations and information on the SRA from self-elicited belief data using the German Socio-Economic Panel Innovation Sample (SOEP-IS). The model accounts for key life-cycle savings and old-age labor supply determinants, such as human capital accumulation, involuntary job loss, health status, and family dynamics. We estimate the model using decision data from the core sample of the SOEP. We design counterfactual simulations to assess the effects of SRA reforms and illustrate the trade-offs of several implementation strategies.
+</p>
+<br>
+
 
 04.06.2025 **Emma Paladino**
 
