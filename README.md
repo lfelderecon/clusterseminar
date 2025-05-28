@@ -30,9 +30,14 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 <br>
 
 
-04.06.2025 **Emma Paladino**
+04.06.2025 **Emma Paladino**, "Parental Health Shocks and Young Adults' Life Trajectories" (joint with Anna Person, University of Cologne)
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    As Western populations age, more adult children face parental health challenges. Caregiving responsibilities towards parents are becoming crucial concerns for families, healthcare systems, and societies. While this care is essential for elderly well-being, it also demands significant time, energy and emotional resources. Yet, the impact of care provision on caregivers’ lives remains understudied. This study examines how unexpected parental health crises affect young adults’ decisions to form partnerships and have children. Using Dutch administrative data, we track individuals aged 15-35 whose parents suffered non-fatal health events, that generated a long-lasting care need. Our analysis aims to explore mechanisms related to time allocation and mental health impacts, potentially creating cycles where delayed fertility leads to older parenthood and earlier caregiving duties in the next generations.
+</p>
+<br>
 
-11.06.2025 **Lavinia Kinne**
+
+11.06.2025 **Aliénor Bisantis**, "Gender Disparities in French Academic Careers: A Multi-Stage Analysis of Selection"
 
 25.06.2025 **Clara Schäper**
 
