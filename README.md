@@ -23,13 +23,6 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 </p>
 <br>
 
-28.05.2025 **Maximilian Blesch & Bruno Veltri**, "Policy Uncertainty, Misinformation, and Retirement Age Reform"
-<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
-    This study examines the impact of Statutory Retirement Age (SRA) reforms on individual behavior and welfare in the presence of policy uncertainty and misinformation. We develop a structural life-cycle model in which individuals are uncertain about the future evolution of the SRA and misinformed about its importance. We derive individuals’ expectations and information on the SRA from self-elicited belief data using the German Socio-Economic Panel Innovation Sample (SOEP-IS). The model accounts for key life-cycle savings and old-age labor supply determinants, such as human capital accumulation, involuntary job loss, health status, and family dynamics. We estimate the model using decision data from the core sample of the SOEP. We design counterfactual simulations to assess the effects of SRA reforms and illustrate the trade-offs of several implementation strategies.
-</p>
-<br>
-
-
 04.06.2025 **Emma Paladino**, "Parental Health Shocks and Young Adults' Life Trajectories" (joint with Anna Person, University of Cologne)
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
     As Western populations age, more adult children face parental health challenges. Caregiving responsibilities towards parents are becoming crucial concerns for families, healthcare systems, and societies. While this care is essential for elderly well-being, it also demands significant time, energy and emotional resources. Yet, the impact of care provision on caregivers’ lives remains understudied. This study examines how unexpected parental health crises affect young adults’ decisions to form partnerships and have children. Using Dutch administrative data, we track individuals aged 15-35 whose parents suffered non-fatal health events, that generated a long-lasting care need. Our analysis aims to explore mechanisms related to time allocation and mental health impacts, potentially creating cycles where delayed fertility leads to older parenthood and earlier caregiving duties in the next generations.
@@ -41,9 +34,13 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 
 25.06.2025 **Clara Schäper**
 
-09.07.2025 **Lars Felder**
+09.07.2025 **Lars Felder / Maxi Schaller**
 
-23.07.2025 **Maxi Schaller**
+23.07.2025 **Maximilian Blesch & Bruno Veltri**, "Policy Uncertainty, Misinformation, and Retirement Age Reform"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    This study examines the impact of Statutory Retirement Age (SRA) reforms on individual behavior and welfare in the presence of policy uncertainty and misinformation. We develop a structural life-cycle model in which individuals are uncertain about the future evolution of the SRA and misinformed about its importance. We derive individuals’ expectations and information on the SRA from self-elicited belief data using the German Socio-Economic Panel Innovation Sample (SOEP-IS). The model accounts for key life-cycle savings and old-age labor supply determinants, such as human capital accumulation, involuntary job loss, health status, and family dynamics. We estimate the model using decision data from the core sample of the SOEP. We design counterfactual simulations to assess the effects of SRA reforms and illustrate the trade-offs of several implementation strategies.
+</p>
+<br>
 
 
 <div style="height: 10mm;"></div>
