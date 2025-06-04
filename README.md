@@ -31,6 +31,10 @@ All abstracts and locations will be shared via our mailing list. If you want to 
 
 
 11.06.2025 **Aliénor Bisantis**, "Gender Disparities in French Academic Careers: A Multi-Stage Analysis of Selection"
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+This project examines the French academic pipeline to identify when and why women become underrepresented in faculty positions: I investigate whether they are less likely to apply, less likely to succeed or a combination of both. Using comprehensive administrative data combining Thèses.fr doctoral records and administrative data from the Conseil National des Universités (CNU), I analyze gender gaps at each critical transition: from PhD graduation through qualification to securing permanent positions. I then exploit the exogenous variation in the number of job openings per year to examine whether tighter competition boosts or blocks women's access to permanent positions. 
+</p>
+<br>
 
 25.06.2025 **Clara Schäper**
 
