@@ -38,7 +38,13 @@ This project examines the French academic pipeline to identify when and why wome
 
 25.06.2025 **Clara Schäper**
 
-09.07.2025 **Lars Felder / Maxi Schaller**
+09.07.2025 **Part I: Lars Felder** 
+
+**Part II: Maxi Schaller**, "Non-cognitive skills and wages" (joint with Richard Blundell and Peter Haan)
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    In this paper, we use SOEP-ADIAB data to investigate the differential wage returns to non-cognitive skills, and explore how these returns depend on the occupational task content. The dataset enables us to extract three dimensions of non-cognitive skills capturing sociability, diligence and emotional stability. We demonstrate how individuals sort into occupations with high social-skill requirements based on their skill profiles. In our main analysis, we estimate a model of tenure-wage growth. Preliminary results indicate that individuals experience stronger wage growth with tenure in occupations where social skills are more important.
+</p>
+<br>
 
 23.07.2025 **Maximilian Blesch & Bruno Veltri**, "Policy Uncertainty, Misinformation, and Retirement Age Reform"
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
