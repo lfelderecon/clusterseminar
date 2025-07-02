@@ -36,7 +36,7 @@ This project examines the French academic pipeline to identify when and why wome
 </p>
 <br>
 
-25.06.2025 **Clara Schäper**
+25.06.2025 **Clara Schäper**, Divorce as a Liberation from Violence: The Role of Legal Protections and Women’s Shelters
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
 Does increased legal infrastructure empower victims to leave abusive relationships? Structural barriers often prevent victims of intimate partner violence from seeking help and leaving their abuser, with two-thirds of female victims in Europe neither reporting incidents to the police nor accessing support services. I study the introduction of the 2002 Violence Protection Act in Germany, which established a structured cooperation framework between women’s shelters, courts, and police. Using newly digitized data on shelter openings from 1970 until today, I classify counties by whether they had support services in place at the time of the reform and combine this with administrative divorce records to examine how the effectiveness of legal protection varies with existing infrastructure. My results show that divorce filings by women increase across all counties following the reform, with more persistent changes in areas lacking shelter infrastructure at the time of the legal change. Contested divorces and those involving children rise only in counties with pre-existing services, suggesting that support infrastructure plays a key role in enabling more complex or constrained exits - even under improved legal protections. These findings align with predictions from a dynamic bargaining model of household decision-making under violence, institutional support, and legal constraints. 
 </p>
