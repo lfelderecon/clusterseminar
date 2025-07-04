@@ -42,7 +42,11 @@ Does increased legal infrastructure empower victims to leave abusive relationshi
 </p>
 <br>
 
-09.07.2025 **Part I: Lars Felder** 
+09.07.2025 **Part I: Lars Felder**, "Negative labor supply shock and firms" (Joint with Peter Haan, Johannes Geyer, Jan Nimczik)
+<p style="font-size:smaller; margin-left:10mm; text-align:justify;">
+    In times of an increasing scarcity of workers, Germany has in a rare move decreased the retirement age for a sizeable section of the working force. This paper investigates the effect of this negative labor supply shock on firm and individual level outcomes using matched employer-employee data from the SIAB. We show that affected workers make use of the reform and exit the labor force earlier. The intensity of the shock varies across firms, with some experiencing substantial losses in their workforce, while others remain largely unaffected. Our data allows us to investigate effects on the careers of coworkers as well as firm-level outcomes.
+</p>
+<br>
 
 **Part II: Maxi Schaller**, "Non-cognitive skills and wages" (joint with Richard Blundell and Peter Haan)
 <p style="font-size:smaller; margin-left:10mm; text-align:justify;">
